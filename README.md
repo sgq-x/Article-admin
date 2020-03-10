@@ -1,5 +1,5 @@
 # element-admin
-
+vuecli3 + mongoose + elementui 开发的一个简单的文章后台管理系统,全栈开发练习项目.......
 ## Project setup
 ```
 npm install
